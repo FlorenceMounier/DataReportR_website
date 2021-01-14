@@ -1,1 +1,1 @@
-![Image](https://github.com/FlorenceMounier/DataReportR_website/blob/main/_includes/header_image1.jpg?raw=true)
+![Image](https://github.com/FlorenceMounier/DataReportR_website/blob/main/_includes/bandeau_DataReportR.jpg?raw=true)
