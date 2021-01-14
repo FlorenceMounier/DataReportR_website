@@ -17,8 +17,7 @@
         <header class="inner">
 
           <img src="https://github.com/FlorenceMounier/DataReportR_website/blob/main/_includes/bandeau_DataReportR.jpg?raw=true" alt="header">
-          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
-          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
+
 
         </header>
     </div>
@@ -26,6 +25,8 @@
     <!-- MAIN CONTENT -->
     <div id="main_content_wrap" class="outer">
       <section id="main_content" class="inner">
+          <h1 id="project_title">{{ site.title | default: site.github.repository_name }}</h1>
+          <h2 id="project_tagline">{{ site.description | default: site.github.project_tagline }}</h2>
         {{ content }}
       </section>
     </div>
