@@ -1,4 +1,0 @@
-- Analyse de données
-- Modélisation
-  - statistique
-  - mécaniste
