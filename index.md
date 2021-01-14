@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include 02-image.md %}
+{% include image.md %}
 
 <br>
 
