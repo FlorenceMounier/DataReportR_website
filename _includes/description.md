@@ -9,6 +9,8 @@ Vous prévoyez d’acquérir le même type de données de façon récurrente ? D
 ### Valorisation et Partage
 Afin de visualiser et synthétiser les données acquises, mais également les résultats issus de leurs analyses,  DataReportR peut également créer pour vous des rapports automatisés avec R (sous format word, PDF et/ou html avec knitR) ainsi que des applications web interactives (RShiny). 
 
+
+
 ## Ecologie théorique : la modélisation au service des données et des projections
 - Modélisation bioénergétique mécaniste : utilisation de modèles individu-centrés basés sur la théorie DEB (Dynamic Energy Budget) pour l’optimisation de production biologique en fonction des conditions de température et de nutrition, l’estimation 
 - Modélisation Toxicocinétique 
