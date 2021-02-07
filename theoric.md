@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Ecologie théorique"
-permalink: /about/ecologie.thoerique/
+permalink: /ecologie.theorique/
 ---
 
 <br>
